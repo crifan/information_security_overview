@@ -1,0 +1,19 @@
+{
+  "title": "信息安全概览",
+  "description": "边学习信息安全技术，边总结技术教程。",
+  "pluginsConfig": {
+    "github-buttons": {
+      "buttons": [
+        {
+          "repo": "information_security_overview"
+        }
+      ]
+    },
+    "sitemap-general": {
+      "prefix": "https://book.crifan.com/gitbook/information_security_overview/website/"
+    },
+    "toolbar-button": {
+      "url": "http://book.crifan.com/books/information_security_overview/pdf/information_security_overview.pdf"
+    }
+  }
+}
