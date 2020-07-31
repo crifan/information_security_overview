@@ -1,7 +1,7 @@
 {
-  "latestVersion": "v0.1",
-  "lastUpdate": "20200730",
+  "latestVersion": "v0.2",
+  "lastUpdate": "20200731",
   "gitRepoName": "information_security_overview",
   "bookName": "信息安全概览",
-  "bookDescription": "边学习信息安全技术，边总结技术教程。"
+  "bookDescription": "边学习信息安全技术，边总结技术教程。已整理出宏观的各个方面的安全的分类和概念。以及基本的计算机安全、移动端安全、物联网安全等细节内容。"
 }

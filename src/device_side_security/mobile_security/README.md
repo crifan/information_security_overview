@@ -1,0 +1,20 @@
+# 移动安全
+
+* 移动端：移动设备安全
+  * Android
+    * Apk逆向工具
+      * Apktool
+      * jd-gui
+      * dex2jar
+    * apk反编译
+      * apk
+        * 脱壳
+        * 加壳
+      * Smali/Baksmali代码
+    * Android
+      * Hook技术
+        * Xposed
+      * 虚拟化技术
+        * VirtualApp
+        * DroidPlugin
+  * iOS
