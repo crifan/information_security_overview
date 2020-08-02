@@ -17,7 +17,7 @@
 
 ## 可执行文件 逆向工程 工具
 
-* `Windows`的`PE`格式的`exe文件`
+* `Windows`的`PE`格式的`exe文件`、`dll文件`
     * `OllyDBG`
     * `IDA PRO`
         * 二进制分析

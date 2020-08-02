@@ -22,4 +22,10 @@
 * [OWASP ZAP安全测试 - 简书](https://www.jianshu.com/p/528e6ffd6d29)
 * [安全性测试：OWASP ZAP使用入门指南 - 哔哩哔哩](https://www.bilibili.com/read/cv1855200/)
 * [Web安全测试-WebScarab工具介绍-云栖社区-阿里云](https://yq.aliyun.com/articles/131608)
+* [「网络安全」安全设备篇（防火墙-IDS-IPS） - 知乎](https://zhuanlan.zhihu.com/p/95664193)
+* [使用peach进行模糊测试从入门到放弃 - 安全客，安全资讯平台](https://www.anquanke.com/post/id/193856)
+* [Cain & Abel v4.9.44发布 - FreeBuf网络安全行业门户](https://www.freebuf.com/sectool/9354.html)
+* [Layer子域名挖掘机5.0 SAINTSEC更新版 - 安全工具 - 互联网之家](http://521.li/post/544.html)
+* [Layer子域名挖掘机 - guojia000 - 博客园](https://www.cnblogs.com/guojia000/p/11393502.html)
+* [逆向分析之常见的汇编指令 - FreeBuf网络安全行业门户](https://www.freebuf.com/vuls/157183.html)
 * 

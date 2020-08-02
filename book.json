@@ -1,6 +1,6 @@
 {
   "title": "信息安全概览",
-  "description": "边学习信息安全技术，边总结技术教程。",
+  "description": "边学习信息安全技术，边总结技术教程。已整理出宏观的各个方面的安全的分类和概念。以及基本的计算机安全、移动端安全、物联网安全等细节内容。",
   "pluginsConfig": {
     "github-buttons": {
       "buttons": [
