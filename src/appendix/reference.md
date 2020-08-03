@@ -28,4 +28,6 @@
 * [Layer子域名挖掘机5.0 SAINTSEC更新版 - 安全工具 - 互联网之家](http://521.li/post/544.html)
 * [Layer子域名挖掘机 - guojia000 - 博客园](https://www.cnblogs.com/guojia000/p/11393502.html)
 * [逆向分析之常见的汇编指令 - FreeBuf网络安全行业门户](https://www.freebuf.com/vuls/157183.html)
+* [十大黑客常用渗透测试工具 - 知乎](https://zhuanlan.zhihu.com/p/75692949)
+* [渗透测试专业人员使用的11种工具 - FreeBuf网络安全行业门户](https://www.freebuf.com/sectool/228565.html)
 * 

@@ -1,5 +1,11 @@
 # nmap
 
+
+TODO：
+
+* [【记录】尝试用nmap去扫描局域网内的计算机的ip和其他详细信息 – 在路上](https://www.crifan.com/try_use_nmap_to_scan_local_active_pc_got_ip_and_other_info/)
+
+
 * `nmap`
   * =网络扫描仪
   * `GUI`版本：`Zenmap`
