@@ -18,6 +18,8 @@
 信息安全技术概念包含内容较多，且涉及维度较广，下面以不同维度来阐述，常见分类和对应内容。
 
 * 信息安全
+  * 概述
+    * ![security_overview_web_desktop](../assets/img/security_overview_web_desktop.jpg)
   * 根据不`同端`=`目标`=`设备`分
     * `Web端`：`网络安全`=`Web安全`=`互联网安全`
     * `设备端`

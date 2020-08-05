@@ -2,8 +2,8 @@
 
 * PC端：计算机安全
     * 多平台：
-        * IDA
-        * radare2
+        * `IDA`
+        * `radare2`
     * Windows
         * Windows安全
             * 调试工具
