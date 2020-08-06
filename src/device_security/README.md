@@ -5,13 +5,13 @@
 主要包括：
 
 * PC端
-  * Windows
-  * Mac
-  * Linux
+  * `Windows`
+  * `Mac`
+  * `Linux`
 * 移动端
-  * Android
-  * iOS
-* IoT=物联网设备
+  * `Android`
+  * `iOS`
+* `IoT`=物联网设备
 
 下面根据不同维度详细介绍。
 
