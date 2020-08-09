@@ -1,7 +1,7 @@
 # MachOView
 
 * `MachOView`
-  * 是什么：查看和编辑Intel的x86和ARM的`Mach-O`二进制文件的工具
+  * 是什么：查看和编辑Intel的`x86`和`ARM`的`Mach-O`二进制文件的工具
   * 截图
     * ![mach_o_object_screenshot](../../../../../assets/img/mach_o_object_screenshot.jpg)
     * ![mach_o_x86_64](../../../../../assets/img/mach_o_x86_64.jpg)
