@@ -1,6 +1,8 @@
 # 参考资料
 
 * 【已解决】Mac中用otool查看IDA依赖的库
+  
+* [工控安全概览](https://book.crifan.com/books/industrial_control_security_overview/website/)
 * 
 * [CTF.GS_CTF网站_CTF网址_CTF网址导航_CTF练习平台_CTF练习平台收集](https://ctf.gs)
 * [CTF大本营 - 网络安全竞赛服务平台-i春秋](https://www.ichunqiu.com/competition)
