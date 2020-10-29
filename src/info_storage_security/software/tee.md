@@ -67,6 +67,12 @@
       * 运行机制
         * 当处于`secure world`状态，那么就会执行`TEE OS`部分的代码
         * 当处于`non-secure world`状态时,就执行`linux kernel`部分的代码
+      * 举例
+        * 芯来科技和瓶钵信息合作开发基于RISC-V的TEE方案
+          * ![tee_example_nuclei_security_solution](../../assets/img/tee_example_nuclei_security_solution.png)
+            * 其中也是符合TEE的架构
+              * 可信区
+              * 不可信区
     * `Normal world` client=`optee_client`
     * test suite = `optee_test/xtest`
     * linux驱动
