@@ -6,12 +6,13 @@
 
 * 之前已写过 安卓安全和破解 的教程
     * https://github.com/crifan/android_app_security_crack
-      * 目前点赞不少 `600+`个star
+      * 目前点赞不少：`600+`个star
         * 看来大家比较关注这个领域
-* 自己计划从事`计算机安全领域`
+* 自己计划从事`计算机安全领域`~=`信息安全`~=`网络安全`
   * 之前是小白，没这方面的经验
-  * 打算边自学，边总结，总结到这个教程中
-    * 供自己和他人参考
+  * 打算边自学，边总结
+    * 总结到此教程（和相关子教程）中
+      * 供自己和他人参考
 
 ## 信息安全技术概览
 
@@ -20,36 +21,39 @@
 * 信息安全
   * 概述
     * ![security_overview_web_desktop](../assets/img/security_overview_web_desktop.jpg)
-  * 根据不同`端`=`目标`=`设备`分
-    * `Web端`：`网络安全`=`Web安全`=`互联网安全`
-    * `设备端`
-      * `PC端`：`计算机安全`
+  * 根据不同`端`=`目标`=`设备` 或 `侧重点`=`方向` 分
+    * 远程 -> `Web端`：`网络安全`=`Web安全`=`互联网安全`
+      * 不同侧重点 = 攻防
+        * 攻 = 攻击：`渗透测试`
+          * 详见：[潜入你的网络：渗透测试](https://book.crifan.com/books/infiltrate_your_net_penetration_testing/website/)
+        * 防 = 防护：
+          * `安全开发`=`安全功能开发`
+          * `安全分析`
+            * 不同数据源
+              * 日志 -> `安全日志分析`
+              * （路由器、防火墙的）数据包 -> `深度包检测`=`DPI`
+            * 结果
+              * `态势感知`
+              * `攻击溯源`
+    * 本地=本机 -> `设备端`
+      * `PC端`=`桌面端`：`计算机安全`
         * 包含
           * `Windows`
-          * `Mac`
-          * `Linux`
+            * 最常见的、涉及的领域：`二进制安全` ~= `PWN`
+              * -> `Window漏洞挖掘` ~= `Windows漏洞分析`
+              * 详见：[探究底层机制：二进制安全](https://book.crifan.com/books/explore_underlying_mechanism_binary_security/website/)
       * `移动端`：`移动安全`
         * 包含
           * `Android`
             * 详见：[安卓安全和破解](http://book.crifan.com/books/android_app_security_crack/website)
           * `iOS`
+            * 详见：[防止iPhone被黑：iOS安全](https://book.crifan.com/books/prevent_iphone_hacked_ios_security/website/)
+              * 往往涉及到，在`Mac`和`Linux`中运行相关安全和破解的工具
+                * -> 所以也就包含了`Mac`和`Linux`相关安全内容
       * `IoT端`：`物联网安全` ~= `工控安全`
         * 详见：[工控安全概览](https://book.crifan.com/books/industrial_control_security_overview/website/)
       * 其他特定设备
         * `WiFi安全`
-  * 根据不同领域和侧重点
-    * Web网络
-      * `渗透测试`
-        * 详见：[潜入你的网络：渗透测试](https://book.crifan.com/books/infiltrate_your_net_penetration_testing/website/)
-      * `安全分析`
-        * `安全日志分析`
-    * 本机
-      * `二进制安全` ~= `PWN`
-        * Window
-          * Window漏洞挖掘 ~= Windows漏洞分析
-        * 移动端
-          * Anroid安全
-          * iOS安全
   * 广义的信息安全
     * 子领域=特殊领域
       * `信息存储安全`

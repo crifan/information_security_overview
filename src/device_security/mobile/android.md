@@ -1,0 +1,20 @@
+# Android安全
+
+* 概述
+  * Apk逆向工具
+    * Apktool
+    * jd-gui
+    * dex2jar
+  * apk反编译
+    * apk
+      * 脱壳
+      * 加壳
+    * Smali/Baksmali代码
+  * Android
+    * Hook技术
+      * Xposed
+    * 虚拟化技术
+      * VirtualApp
+      * DroidPlugin
+* 详解
+  * [安卓应用的安全和破解](https://book.crifan.com/books/android_app_security_crack/website/)
