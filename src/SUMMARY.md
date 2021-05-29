@@ -38,8 +38,6 @@
     * [Fortify](other_related/code_audit/fortify.md)
     * [RIPS](other_related/code_audit/rips.md)
   * [相关工具](other_related/tool/README.md)
-    * [抓包工具](other_related/tool/capture_package/README.md)
-      * [Wireshark](other_related/tool/capture_package/wireshark.md)
     * [破解密码](other_related/tool/crack_password/README.md)
       * [John the Ripper](other_related/tool/crack_password/john_the_ripper.md)
       * [Hashcat](other_related/tool/crack_password/hashcat.md)
