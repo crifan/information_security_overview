@@ -1,4 +1,0 @@
-# Armorize CodeSecue
-
-* `Armorize CodeSecue`
-* 

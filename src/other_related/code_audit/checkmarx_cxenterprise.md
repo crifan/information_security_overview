@@ -1,4 +1,0 @@
-# Checkmarx CxEnterprise
-
-* `Checkmarx CxEnterprise`
-* 

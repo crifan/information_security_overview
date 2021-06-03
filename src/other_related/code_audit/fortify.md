@@ -1,4 +1,0 @@
-# Fortify
-
-* `Fortify`
-  * 
