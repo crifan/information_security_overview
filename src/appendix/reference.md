@@ -1,7 +1,7 @@
 # 参考资料
 
 * 【已解决】Mac中用otool查看IDA依赖的库
-  
+* 
 * [工控安全概览](https://book.crifan.com/books/industrial_control_security_overview/website/)
 * [防止被黑客攻击：Web安全](https://book.crifan.com/books/avoid_hacker_attack_web_security/website/)
 * 
@@ -66,4 +66,14 @@
 * [\[原创\]使用 mitmproxy 快速搭建软件网络验证API——以某音频处理软件为例-『软件逆向』-看雪安全论坛](https://bbs.pediy.com/thread-261265.htm)
 * [安全解决方案 - RISC-V IP方案](https://www.nucleisys.com/product/site/aqjjfa/)
 * [关于最近研究工作挖洞的碎碎念-WEB安全-看雪论坛-安全社区|安全招聘|bbs.pediy.com](https://bbs.pediy.com/thread-259491.htm)
+* [快速了解HIPAA：定义、分类、患者权利及维权-动脉网 (vcbeat.top)](https://vcbeat.top/10158)
+* [HIPAA合规性详细介绍及案例分享-AWS云服务 (amazon.com)](https://aws.amazon.com/cn/compliance/hipaa-compliance/)
+* [至今为止GDPR《通用数据保护规范》解释的最清楚的文章 - 安全牛 (aqniu.com)](https://www.aqniu.com/learn/30670.html)
+* [通用数据保护条例 (GDPR) (stripe.com)](https://stripe.com/zh-cn-us/guides/general-data-protection-regulation)
+* [Web安全攻防实战_渗透测试_安全_网络安全_Web安全_黑客攻防_白帽子_XSS_DDoS_注入-极客时间 (geekbang.org)](https://time.geekbang.org/course/intro/322)
+* [Fuzzing测试 (odaytest.com)](http://www.odaytest.com/fuzzingcsjs)
+* [漏洞详情 (qiyuanxuetang.net)](http://vulnstack.qiyuanxuetang.net/vuln/detail/2/)
+* [详解Hook框架frida，让你在逆向工作中效率成倍提升！ - FreeBuf网络安全行业门户](https://www.freebuf.com/company-information/180480.html)
+* [硬核科普！Modem、ISP、DSP、NPU等单元到底有啥用？_产品_电脑爱好者 (cfan.com.cn)](https://www.cfan.com.cn/2020/0521/133855.shtml)
+* [第1章计算机网络安全概述 - 中国科学技术大学](http://staff.ustc.edu.cn/~xiaomj/teaching/01.ppt)
 * 

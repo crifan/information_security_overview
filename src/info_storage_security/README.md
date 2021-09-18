@@ -16,4 +16,7 @@
     * 硬件层面
       * `TrustZone`
     * 软件层面
-      * `TEE`
+      * `TEE`=`Trusted Execution Environment`=`可信任执行环境`
+  * 方案举例
+    * 华为的麒麟芯片内部就用到`TrustZone`、`TEE`、`TEE OS`
+      * ![tee_example_kirin_soc](../assets/img/tee_trustzone_kirin_soc.jpg)

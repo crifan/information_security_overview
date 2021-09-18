@@ -10,10 +10,10 @@
       ]
     },
     "sitemap-general": {
-      "prefix": "https://book.crifan.com/gitbook/information_security_overview/website/"
+      "prefix": "https://book.crifan.org/books/information_security_overview/website/"
     },
     "toolbar-button": {
-      "url": "http://book.crifan.com/books/information_security_overview/pdf/information_security_overview.pdf"
+      "url": "https://book.crifan.org/books/information_security_overview/pdf/information_security_overview.pdf"
     }
   }
 }

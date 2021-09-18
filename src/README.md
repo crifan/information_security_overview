@@ -1,7 +1,7 @@
 # 信息安全概览
 
-* 最新版本：`v2.2`
-* 更新时间：`20210604`
+* 最新版本：`v2.3`
+* 更新时间：`20210918`
 
 ## 简介
 
@@ -21,18 +21,18 @@
 
 ### 在线浏览
 
-* [信息安全概览 book.crifan.com](http://book.crifan.com/books/information_security_overview/website)
+* [信息安全概览 book.crifan.org](https://book.crifan.org/books/information_security_overview/website)
 * [信息安全概览 crifan.github.io](https://crifan.github.io/information_security_overview/website)
 
 ### 离线下载阅读
 
-* [信息安全概览 PDF](http://book.crifan.com/books/information_security_overview/pdf/information_security_overview.pdf)
-* [信息安全概览 ePub](http://book.crifan.com/books/information_security_overview/epub/information_security_overview.epub)
-* [信息安全概览 Mobi](http://book.crifan.com/books/information_security_overview/mobi/information_security_overview.mobi)
+* [信息安全概览 PDF](https://book.crifan.org/books/information_security_overview/pdf/information_security_overview.pdf)
+* [信息安全概览 ePub](https://book.crifan.org/books/information_security_overview/epub/information_security_overview.epub)
+* [信息安全概览 Mobi](https://book.crifan.org/books/information_security_overview/mobi/information_security_overview.mobi)
 
 ## 版权说明
 
-此电子书教程的全部内容，如无特别说明，均为本人原创和整理。其中部分内容参考自网络，均已备注了出处。如有发现侵犯您版权，请通过邮箱联系我 `admin 艾特 crifan.com`，我会尽快删除。谢谢合作。
+此电子书教程的全部内容，如无特别说明，均为本人原创和整理。其中部分内容参考自网络，均已备注了出处。如有发现侵犯您版权，请通过邮箱联系我 `admin 艾特 crifan.org`，我会尽快删除。谢谢合作。
 
 ## 鸣谢
 
