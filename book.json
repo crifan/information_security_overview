@@ -28,13 +28,6 @@
       "icon": "fa-file-pdf-o",
       "label": "下载PDF"
     },
-    "google-adsense": {
-      "ads": [
-        {
-          "client": "ca-pub-6626240105039250"
-        }
-      ]
-    },
     "callouts": {
       "showTypeInHeader": false
     },
@@ -91,9 +84,6 @@
       "modify_label": "最后更新：",
       "modify_format": "YYYY-MM-DD HH:mm:ss"
     },
-    "ga": {
-      "token": "UA-28297199-1"
-    },
     "donate": {
       "wechat": "https://www.crifan.org/files/res/crifan_com/crifan_wechat_pay.jpg",
       "alipay": "https://www.crifan.org/files/res/crifan_com/crifan_alipay_pay.jpg",
@@ -103,9 +93,8 @@
       "wechatText": "微信打赏给Crifan"
     }
   },
-  "author": "Crifan Li <admin@crifan.org>",
+  "author": "Crifan Li <admin@crifan.com>",
   "language": "zh-hans",
-  "gitbook": "3.2.3",
   "root": "./src",
   "links": {
     "sidebar": {
@@ -113,9 +102,9 @@
     }
   },
   "plugins": [
-    "google-adsense",
     "theme-comscore",
     "anchors",
+    "expandable-menu",
     "-lunr",
     "-search",
     "search-plus",
@@ -124,12 +113,11 @@
     "prism",
     "prism-themes",
     "github-buttons",
-    "splitter",
+    "-splitter",
+    "splitter-nosessionbutcookie",
     "-sharing",
     "sharing-plus",
     "tbfed-pagefooter",
-    "expandable-chapters-small",
-    "ga",
     "donate",
     "sitemap-general",
     "copy-code-button",

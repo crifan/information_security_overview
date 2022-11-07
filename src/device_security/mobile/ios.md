@@ -1,4 +1,4 @@
 # iOS安全
 
 * 详解
-  * [防止iPhone被黑：iOS安全](https://book.crifan.com/books/prevent_iphone_hacked_ios_security/website/)
+  * [iOS安全与防护](https://book.crifan.org/books/ios_security_protect/website/)

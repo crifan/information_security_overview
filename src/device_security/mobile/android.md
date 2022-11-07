@@ -17,4 +17,4 @@
       * VirtualApp
       * DroidPlugin
 * 详解
-  * [安卓应用的安全和破解](https://book.crifan.com/books/android_app_security_crack/website/)
+  * [安卓应用的安全和破解](https://book.crifan.org/books/android_app_security_crack/website/)

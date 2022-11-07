@@ -47,7 +47,7 @@
         * 移动端
           * 往往指的是 不同系统和设备的
             * [Android安全](http://book.crifan.org/books/android_app_security_crack/website)
-            * [iOS安全](https://book.crifan.org/books/prevent_iphone_hacked_ios_security/website/)
+            * [iOS安全](https://book.crifan.org/books/ios_security_protect/website/)
       * 不同类型设备
         * PC端
           * 统称：`计算机安全`=`PC安全`
