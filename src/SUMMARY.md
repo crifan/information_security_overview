@@ -2,6 +2,11 @@
 
 * [前言](README.md)
 * [安全概览](security_overview/README.md)
+  * [概览图](security_overview/figure/README.md)
+    * [范畴图](security_overview/figure/field.md)
+    * [脑图](security_overview/figure/mindmap.md)
+  * [概览文字](security_overview/text.md)
+  * [相关的人](security_overview/related_person.md)
 * [安全通用知识](security_common/README.md)
   * [网络安全模型](security_common/security_model/README.md)
   * [安全学习方法](security_common/security_learn_method/README.md)

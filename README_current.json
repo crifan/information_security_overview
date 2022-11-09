@@ -1,6 +1,6 @@
 {
-  "latestVersion": "v2.4",
-  "lastUpdate": "20221107",
+  "latestVersion": "v2.5",
+  "lastUpdate": "20221109",
   "gitRepoName": "information_security_overview",
   "bookName": "信息安全概览",
   "bookDescription": "边学习信息安全技术，边总结技术教程。已整理出宏观的各个方面的安全的分类和概念。以及基本的计算机安全、移动端安全、物联网安全等细节内容。目前已把部分内容抽出成独立子教程，包括Web安全、渗透测试、安全分析、二进制安全、iOS安全、Android安全、工控安全。"
