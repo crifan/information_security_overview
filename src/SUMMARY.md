@@ -41,6 +41,7 @@
       * [Hydra](other_related/tool/crack_password/hydra.md)
     * [代理工具](other_related/tool/proxy_tool.md)
     * [远程操作工具](other_related/tool/remote_tool.md)
+* [子教程](sub_books/README.md)
 * [附录](appendix/README.md)
   * [资料和文档](appendix/docs.md)
   * [参考资料](appendix/reference.md)

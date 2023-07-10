@@ -1,0 +1,90 @@
+# 子教程
+
+信息安全领域，目前已整理出各自独立的子教程，汇总如下，供需要的参考：
+
+* 信息安全
+  * 概览
+    * [信息安全概览](https://book.crifan.org/books/information_security_overview/website/)
+  * 详解=不同的端
+    * PC
+      * Web
+        * 概览
+          * [防止被黑客攻击：Web安全](https://book.crifan.org/books/avoid_hacker_attack_web_security/website/)
+        * 渗透
+          * [潜入你的网络：渗透测试](https://book.crifan.org/books/infiltrate_your_net_penetration_testing/website/)
+        * 分析
+          * [掌握黑客的行踪：安全分析](https://book.crifan.org/books/grasp_hacker_track_security_analysis/website/)
+      * 二进制
+        * [探究底层机制：二进制安全](https://book.crifan.org/books/explore_underlying_mechanism_binary_security/website/)
+    * 物联网
+      * 工控
+        * [工控安全概览](https://book.crifan.org/books/industrial_control_security_overview/website/)
+      * 汽车
+        * [守护你的座驾：汽车安全](https://book.crifan.org/books/guard_your_car_safety/website/)
+    * 移动端
+      * Android
+        * [安卓应用的安全和破解](https://book.crifan.org/books/android_app_security_crack/website/)
+          * [Android逆向开发](https://book.crifan.org/books/android_reverse_dev/website/)
+            * [Android逆向：开启root](https://book.crifan.org/books/android_re_enable_root/website/)
+            * [Android逆向：重新打包apk](https://book.crifan.org/books/android_re_repack_apk/website/)
+            * [Android逆向：动态调试](https://book.crifan.org/books/android_re_dynamic_debug/website/)
+        * 相关
+          * [Android开发总结](https://book.crifan.org/books/android_dev_summary/website/)
+          * [强大的安卓破解辅助工具：XPosed框架](https://book.crifan.org/books/crack_assistant_xposed_framework/website/)
+      * iOS
+        * iOS正向：[iOS安全与防护](https://book.crifan.org/books/ios_security_protect/website/)
+        * iOS逆向：[iOS逆向开发](https://book.crifan.org/books/ios_reverse_dev/website/)
+          * 系列教程
+            * 典型流程
+              * [iOS逆向开发：iPhone越狱](https://book.crifan.org/books/ios_re_iphone_jailbreak/website/)
+                * [iOS逆向：iOS15越狱](https://book.crifan.org/books/ios_re_ios15_jailbreak/website/)
+                * [iOS逆向开发：越狱包管理器](https://book.crifan.org/books/ios_re_package_manager/website/)
+                * 【整理Book】iOS逆向：安装app和插件
+              * [iOS逆向开发：砸壳ipa](https://book.crifan.org/books/ios_re_crack_shell_ipa/website/)
+              * [iOS逆向开发：静态分析](https://book.crifan.org/books/ios_re_static_analysis/website/)
+                * [逆向利器：IDA](https://book.crifan.org/books/reverse_tool_ida/website/)
+              * [iOS逆向开发：动态调试](https://book.crifan.org/books/ios_re_dynamic_debug/website/)
+                * [iOS逆向开发：MonkeyDev调试](https://book.crifan.org/books/ios_re_monkeydev_debug/website/)
+                * [逆向调试利器：Frida](https://book.crifan.org/books/reverse_debug_frida/website/)
+                * [Xcode内置调试器：LLDB](https://book.crifan.org/books/xcode_debugger_lldb/website/)
+                * Xcode
+                  * [Xcode开发心得](https://book.crifan.org/books/xcode_dev_summary/website/)
+                    * [Xcode开发：调试心得](https://book.crifan.org/books/xcode_dev_debug_summary/website/)
+            * 涉及领域/子项
+              * [iOS逆向开发：越狱插件开发](https://book.crifan.org/books/ios_re_jailbreak_tweak/website/)
+                * [iOS逆向开发：iOSOpenDev开发插件](https://book.crifan.org/books/ios_re_iosopendev_tweak/website/)
+              * [iOS逆向开发：iOS底层机制](https://book.crifan.org/books/ios_re_ios_internal/website/)
+                * [iOS逆向开发：ObjC运行时](https://book.crifan.org/books/ios_re_objc_runtime/website/)
+                * [iOS逆向开发：Block匿名函数](https://book.crifan.org/books/ios_re_objc_block/website/)
+              * 正向的越狱检测和逆向的反越狱检测
+                * [iOS逆向开发：越狱检测和反越狱检测](https://book.crifan.org/books/ios_re_jb_detection/website/)
+              * [iOS逆向之动态调试：断点](https://book.crifan.org/books/ios_re_debug_breakpoint/website/)
+              * 高级逆向
+                * 代码模拟
+                  * [CPU模拟利器：Unicorn](https://book.crifan.org/books/cpu_emulator_unicorn/website/)
+            * 实例
+              * [iOS逆向开发：YouTube逆向](https://book.crifan.org/books/ios_re_youtube_reverse/website/)
+                * [iOS逆向YouTube：protobuf逆向](https://book.crifan.org/books/ios_re_protobuf_reverse/website/)
+              * 【整理Book】iOS逆向开发：抖音逆向
+          * 相关
+            * 语言
+              * 汇编
+                * 通用
+                  * 【整理Book】底层编程语言：汇编语言asm
+                * ARM
+                  * [最流行汇编语言：ARM](https://book.crifan.org/books/popular_assembly_arm/website/)
+              * C
+                * [C语言开发心得](https://book.crifan.org/books/c_lang_dev_summary/website/)
+              * iOS
+                * [iOS开发心得](https://book.crifan.org/books/ios_dev_summary/website/)
+            * 代码
+              * iOS正向
+                * 越狱检测
+                  * [crifan/iOSJailbreakDetection: iOS的ObjC的app，实现iOS越狱检测](https://github.com/crifan/iOSJailbreakDetection)
+                * 配合测试(iOS逆向改机)的app
+                  * [crifan/ShowSystemInfo: iOS的app，检测并显示iOS的iPhone的系统信息](https://github.com/crifan/ShowSystemInfo)
+              * iOS逆向
+                * 反越狱检测
+                  * [crifan/iOSBypassJailbreak: 越狱iOS的hook插件，实现反越狱检测](https://github.com/crifan/iOSBypassJailbreak)
+                * 逆向YouTube
+                  * [crifan/iOSYouTubeAdsFilter: MonkeyDev+Xcode项目，iOS逆向YouTube，尝试实现广告过滤功能](https://github.com/crifan/iOSYouTubeAdsFilter)
