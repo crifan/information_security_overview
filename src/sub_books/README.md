@@ -26,11 +26,13 @@
         * [安卓应用的安全和破解](https://book.crifan.org/books/android_app_security_crack/website/)
           * [Android逆向开发](https://book.crifan.org/books/android_reverse_dev/website/)
             * [Android逆向：开启root](https://book.crifan.org/books/android_re_enable_root/website/)
+            * [Android逆向：静态分析](https://book.crifan.org/books/android_re_static_analysis/website/)
+              * [安卓反编译利器：jadx](https://book.crifan.org/books/android_re_decompile_jadx/website/)
             * [Android逆向：重新打包apk](https://book.crifan.org/books/android_re_repack_apk/website/)
             * [Android逆向：动态调试](https://book.crifan.org/books/android_re_dynamic_debug/website/)
         * 相关
           * [Android开发总结](https://book.crifan.org/books/android_dev_summary/website/)
-          * [强大的安卓破解辅助工具：XPosed框架](https://book.crifan.org/books/crack_assistant_xposed_framework/website/)
+          * [安卓逆向调试：XPosed框架](https://book.crifan.org/books/android_re_xposed_framework/website/)
       * iOS
         * iOS正向：[iOS安全与防护](https://book.crifan.org/books/ios_security_protect/website/)
         * iOS逆向：[iOS逆向开发](https://book.crifan.org/books/ios_reverse_dev/website/)
